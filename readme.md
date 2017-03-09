@@ -8,3 +8,7 @@ Enable by setting `c::set('compress', true);` in your config.php file.
 
 ## Author
 Iksi, <http://www.iksi.cc>
+
+## License
+
+[MIT](https://opensource.org/licenses/MIT)
